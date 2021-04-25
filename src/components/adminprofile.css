@@ -1,0 +1,22 @@
+.admin-pro{
+    text-align: left;
+    padding-top: 5vh;
+    
+}
+
+.pro-img{
+    margin-left: 20vw;
+    width:15%;
+    margin-bottom: 5vh;
+    border-radius: 100%;
+}
+
+.adminprofile-ul {
+    list-style-type: none;
+    margin-top: 5vh;
+    padding-left: 10vw;
+  }
+
+  .adminprofile-ul li{
+      margin: 1vw;
+  }
